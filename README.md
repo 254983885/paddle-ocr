@@ -13,3 +13,5 @@ pip install pyUserInput
 注意这里一定要以  pip3  安装。
 
 在py文件同级目录下放一个o.png图像。
+
+原文地址：https://www.jianshu.com/p/8c959eaa886e
